@@ -1,2 +1,2 @@
-# jimeliot.github.io
+# jimeliots.github.io
 h1.March Website
